@@ -1,0 +1,22 @@
+body {
+    padding-top: 75px;
+    padding-bottom: 75px;
+}
+
+label {
+    font-weight: bold;
+  }
+  
+  a,
+  a:hover {
+    text-decoration: none;
+  }
+  
+  .absolute-right {
+    right: 15px;
+  }
+  
+  .front {
+    z-index: 10;
+  }
+  
